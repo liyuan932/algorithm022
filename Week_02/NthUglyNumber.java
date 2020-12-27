@@ -1,5 +1,4 @@
-//执行用时：22 ms, 在所有 Java 提交中击败了21.17%
-//时间复杂度 O(NlogN) 空间复杂度O(2N)
+//丑数
 class Solution {
     //用小顶堆存生成的丑数（需去重），弹出的第n个数即为第n个丑数
     public int nthUglyNumber(int n) {
